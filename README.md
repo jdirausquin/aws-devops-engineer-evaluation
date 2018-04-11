@@ -84,7 +84,7 @@ You have to ship your code to us, please create a pull request against the upstr
 # Solution
 
 ## Instructions
-1. Clon the gitihub project
+1. Clon the github project
 2. Download and unzip terraform https://www.terraform.io/downloads.html
 3. Go to you AWS console and create a Key pair with any name.
 4. Edit the file vars.tf and change all the ocurrences of "keyname" for the name given to the AWS ssh-key generated before
