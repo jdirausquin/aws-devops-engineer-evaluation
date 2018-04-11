@@ -31,7 +31,7 @@ variable "subnet_pub_vpc1" {
 }
 
 variable "subnet_pub_vpc2" {
-    description = "CIDR for the Private Subnet on VPC 2"
+    description = "CIDR for the Public Subnet on VPC 2"
     default = "172.20.100.0/24"
 }
 
